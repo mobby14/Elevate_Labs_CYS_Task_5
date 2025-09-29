@@ -28,6 +28,6 @@
    
 
 ***
-#### For handling sensitive information in pcap files. I can't share my file in my repo but I upload statistics from the capture files.
+#### Since .pcap file contain sensitive information like local device's ip and MAC address. I can't share my .pcap file in my repo but I upload statistics from the capture files.
 ***
 ![](https://github.com/mobby14/Elevate_Labs_CYS_Task_5/blob/main/task5_wireshark_capture_io_graph.jpeg)
